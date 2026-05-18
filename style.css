@@ -85,7 +85,7 @@ body { font-family: 'Inter', sans-serif; background-color: #1a1a1a; color: var(-
 
 .bottom-nav { height: 50px; display: flex; justify-content: space-around; align-items: center; background-color: var(--header-bg); border-top: 1px solid var(--border-color); position: absolute; bottom: 0; width: 100%; z-index: 100; font-size: 22px; }
 .bottom-nav.hidden { display: none; }
-.nav-profile { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
+.nav-profile { width: 30px; height: 30px; border-radius: 50%; object-fit: cover; }
 .bottom-nav .active { color: var(--text-color); }
 
 .profile-info { padding: 20px 16px; }
